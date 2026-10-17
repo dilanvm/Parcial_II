@@ -1,4 +1,4 @@
-package co.uniquindio.edu.co.parcial2.facade;
+package co.uniquindio.edu.co.controller;
 
 import java.util.List;
 import java.util.Objects;

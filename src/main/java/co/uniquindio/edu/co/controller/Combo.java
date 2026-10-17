@@ -1,5 +1,7 @@
 package co.uniquindio.edu.co.shopmaster.catalogo;
 
+import co.uniquindio.edu.co.controller.ItemCatalogo;
+
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;

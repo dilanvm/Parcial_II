@@ -1,4 +1,4 @@
-package co.uniquindio.edu.co.shopmaster.catalogo;
+package co.uniquindio.edu.co.controller;
 
 public interface ItemCatalogo {
     String getNombre();
