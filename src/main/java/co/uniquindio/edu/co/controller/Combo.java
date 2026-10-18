@@ -1,10 +1,11 @@
-package co.uniquindio.edu.co.shopmaster.catalogo;
+package co.uniquindio.edu.co.controller;
 
 import co.uniquindio.edu.co.controller.ItemCatalogo;
 
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Objects;
+public final class Combo implements ItemCatalogo{
 
     private final String nombre;
     private final List<ItemCatalogo> elementos = new ArrayList<>();
